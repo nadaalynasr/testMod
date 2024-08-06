@@ -1,0 +1,10 @@
+{
+    "Name": "testMod",
+    "Author": "Nada Aly-Nasr",
+    "Version": "1.0.0",
+    "Description": "Stardew tutorial mod",
+    "UniqueID": "nadaalynasr.testMod",
+    "EntryDll": "testMod.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+  }
