@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/gyVeXiBxcA=",
+  "dgSpecHash": "1QGbZBUfgZ8=",
   "success": true,
   "projectFilePath": "/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/ClassLibrary1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/nadaaly-nasr/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
