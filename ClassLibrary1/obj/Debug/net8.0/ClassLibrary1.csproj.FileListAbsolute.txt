@@ -1,0 +1,9 @@
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.AssemblyReference.cache
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.sourcelink.json
+/Users/nadaaly-nasr/Desktop/Desktop - Nada’s MacBook Pro/nadood/testMod/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
